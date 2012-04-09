@@ -14,6 +14,8 @@
  */
 package com.cloudera.crunch.io;
 
+// Why is this file named "At.java"?
+
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.hbase.client.Scan;
 
